@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/a870bb72-9cc0-46f3-9456-6286acea4f78)
+
+
+### Name: Janani K
+### Register Number: 212224230102
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
